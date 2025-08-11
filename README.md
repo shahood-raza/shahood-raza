@@ -15,8 +15,8 @@
 
 <h3 align="left">Get in Touch:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shahood-raza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahood-raza" height="30" width="40" /></a>
-<a href="https://fb.com/muhammad.shahood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad.shahood" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shahood-raza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahood-raza" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100071779266382" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad.shahood" height="30" width="40" /></a>
 <a href="https://instagram.com/muhammad.shahood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammad.shahood" height="30" width="40" /></a>
 <a href="https://discord.gg/shahood_92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shahood_92" height="30" width="40" /></a>
 </p>
