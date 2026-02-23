@@ -1,11 +1,11 @@
 ![Banner](https://mir-s3-cdn-cf.behance.net/project_modules/fs/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Muhammad Shahood Raza</h1>
-<h3 align="center">Passionate about building Flutter apps and clean UI design</h3>
+<h3 align="center">Passionate about building Flutter apps and Clean UI design</h3>
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400" align="right" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahood-raza&label=Profile%20views&color=0e75b6&style=flat" alt="shahood-raza" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter** & **Cyber Security**
 
 - 💬 Ask me about **Flutter, Dart ,Python, UI/UX Design**
 
