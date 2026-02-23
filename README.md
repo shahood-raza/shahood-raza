@@ -1,7 +1,7 @@
 ![Banner](https://mir-s3-cdn-cf.behance.net/project_modules/fs/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Muhammad Shahood Raza</h1>
 <h3 align="center">Passionate about building Flutter apps and clean UI design</h3>
-<img src="https://camo.githubusercontent.com/abe04c0b2ccc0ef7d6677540854002171c38295caa13c50d2832274832442a99/68747470733a2f2f63646e2e66696c65737461636b636f6e74656e742e636f6d2f6566625352313868543575524b756f307a6f4d41" alt="coding" width="400" align="right">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400" align="right" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahood-raza&label=Profile%20views&color=0e75b6&style=flat" alt="shahood-raza" /> </p>
 
