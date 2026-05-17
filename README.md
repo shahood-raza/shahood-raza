@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter** & **Cyber Security**
 
-- 💬 Ask me about **Flutter, Dart ,Python, UI/UX Design**
+- 💬 Ask me about **Flutter, Dart ,Python, Cyber Security, Penetration Testing , Networking**
 
 - 📫 How to reach me **shahoodraza92@gmail.com**
 
